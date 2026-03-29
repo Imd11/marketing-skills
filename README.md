@@ -27,8 +27,9 @@ A comprehensive AI agent skill library for marketing, growth, and advertising ta
 - **content-marketing/** — Content marketing
 - **copy-editing/** — Copy polish
 - **viral-writer/** — 自媒体创作
+- **social-content/** — Social media content
 
-### 🔍 SEO
+### 🔍 SEO & Research
 - **seo-audit/** — SEO audit
 - **seo-optimizer/** — SEO optimization
 - **pls-seo-audit/** — PLS SEO audit
@@ -53,8 +54,12 @@ A comprehensive AI agent skill library for marketing, growth, and advertising ta
 - **last30days/** — Reddit/Twitter/YouTube monitoring
 - **reddit-researcher/** — Reddit market intelligence
 - **reddit-readonly/** — Reddit insights
-- **social-content/** — Social content
 - **twitter-post/** — Twitter posting
+
+### 🛠️ Foundations & Orchestration
+- **foundations/** — Avatar extraction, offer extraction
+- **operator-os/** — Ad angle multiplier, conversion path builder, performance diagnosis, scroll-stopping creative
+- **orchestrators/** — Full funnel campaign orchestrator
 
 ## Installation
 
